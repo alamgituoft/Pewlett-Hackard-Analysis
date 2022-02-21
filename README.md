@@ -1,8 +1,11 @@
-# Pewlett-Hackard-Analysis
-# Project Overview
+# Pewlett-Hackard-Analysis Project Overview
 Analysis project for a company called Pewlett Hackard. The analysis is to help the company determine the number of retiring employees as per their job titles and also identify employees who are eligible to participate in a mentorship program.
+
+![image](https://user-images.githubusercontent.com/81877387/155028610-7ab31e72-8c86-4465-8339-b51a683a9781.png)# 
+
 # Resources
-Software: pgAdmin4, Visual Studio Code 1.56.2
+Software: pgAdmin4, PostgreSQL11, Visual Studio Code 1.56.2
+
 # Results
 The results show that:
 * There are a total of 90,398 employees who are eligible for retirement. 
