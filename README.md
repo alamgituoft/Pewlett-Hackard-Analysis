@@ -3,7 +3,7 @@ Analysis project for a company called Pewlett Hackard. The analysis is to help t
 
 The project is analyzed using SQL relational databases.
 
-![image](https://user-images.githubusercontent.com/81877387/155028610-7ab31e72-8c86-4465-8339-b51a683a9781.png)# 
+![image](https://user-images.githubusercontent.com/81877387/155028610-7ab31e72-8c86-4465-8339-b51a683a9781.png)
 
 # Resources
 Software: pgAdmin4, PostgreSQL11, Visual Studio Code 1.56.2
